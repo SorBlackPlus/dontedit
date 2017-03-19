@@ -14,7 +14,7 @@ sudo luarocks install redis-lua
 sudo luarocks install fakeredis
 sudo luarocks install serpent
 cd ..
-git clone https://github.com/NeroTeam/dontedit.git
+git clone https://github.com/SorBlackPlus/dontedit.git
 # set token and admin id in botbase.lua
 cd dontedit
 sudo chmod 777 ./launch.sh
