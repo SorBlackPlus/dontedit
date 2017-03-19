@@ -1,5 +1,5 @@
-# Dont Edit
-# [Nero Team](https://t.me/NeroTeam)
+# Dont Edit [PrimeTeam & Sorblack Team](https://t.me/primetaeM)
+# [PrimeTeam](https://t.me/PrimeTeam)
 # Install 
 
 ```bash
@@ -20,4 +20,4 @@ cd dontedit
 sudo chmod 777 ./launch.sh
 ./launch.sh
 ```
-# Thanks To Behrad
+# Code By [#SorBlack](https://t.me/sorblack)
